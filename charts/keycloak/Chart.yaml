@@ -51,8 +51,5 @@ annotations:
     - name: Maintainer CloudPirates
       url: https://www.cloudpirates.io
   artifacthub.io/changes: |2
-        - kind: changed
-          description: "[keycloak]: Fix https settings in keycloak when disabling http (#530)"
-          links:
-            - name: "Commit b0c34f6"
-              url: "https://github.com/CloudPirates-io/helm-charts/commit/b0c34f6"
+        - kind: added
+          description: "Initial chart release"

@@ -44,8 +44,5 @@ annotations:
     - name: Maintainer CloudPirates
       url: https://www.cloudpirates.io
   artifacthub.io/changes: |2
-        - kind: changed
-          description: "Update charts/ghost/values.yaml ghost to v6.6.0 (minor) (#539)"
-          links:
-            - name: "Commit fda6611"
-              url: "https://github.com/CloudPirates-io/helm-charts/commit/fda6611"
+        - kind: added
+          description: "Initial chart release"
